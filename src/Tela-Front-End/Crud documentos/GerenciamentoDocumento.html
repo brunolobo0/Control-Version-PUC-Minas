@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Control Version - Gerenciamento</title>
+    <link rel="stylesheet" href="https://cdn.lineicons.com/5.0/lineicons.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/Gerenciamento.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <aside id="sidebar">
+            <div class="d-flex align-items-center">
+                <button class="toggle-btn btn" type="button">
+                    <i class="lni lni-dashboard-square-1"></i>
+                </button>
+                <div class="sidebar-logo">
+                    <a href="#">CONTROL VERSION</a>
+                </div>
+            </div>
+            <ul class="sidebar-nav list-unstyled">
+                <li class="sidebar-item">
+                    <a href="#" class="sidebar-link d-flex align-items-center gap-2">
+                        <i class="lni lni-user-4"></i>
+                        <span>Perfil</span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a href="./GerenciamentoDocumento.html" class="sidebar-link d-flex align-items-center gap-2">
+                        <i class="lni lni-file-multiple"></i>
+                        <span>Gerenciamento</span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a href="./Favoritos.html" class="sidebar-link d-flex align-items-center gap-2">
+                        <i class="lni lni-star-fat"></i>
+                        <span>Favoritos</span>
+                    </a>
+                </li>
+            </ul>
+            <div class="sidebar-footer">
+                <a href="./Login.html" class="sidebar-link d-flex align-items-center gap-2">
+                    <i class="lni lni-exit"></i>
+                    <span>Sair</span>
+                </a>
+            </div>
+        </aside>
+        <div class="main">
+            <nav class="navbar navbar-expand px-4 py-3">
+                <div class="d-flex align-items-center">
+                    <img src="assets/img/logo-sidebar.png" alt="Logo" class="me-2" style="height: 100px;">
+                    <span class="navbar-brand mb-0 h1">Gerenciamento de arquivos</span>
+                </div>
+                <div class="navbar-collapse collapse justify-content-end">
+                    <ul class="navbar-nav ms-auto d-flex align-items-center">
+                        <li class="nav-item">
+                            <form class="d-flex me-4">
+                                <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
+                                <button class="btn btn-warning" type="submit">Buscar</button> 
+                            </form>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a href="#" data-bs-toggle="dropdown" class="nav-icon pe-md-0">
+                                <img src="assets/img/account.png" class="avatar img-fluid" alt="">
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-end rounded">
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <main class="content px-3 py-4">
+                <div class="container-fluid">
+                    <div class="mb-3">
+                        <div class="row gx-4 gy-4">
+                            <div class="col-12 col-md-4">
+                                <div class="card border-0 shadow-lg bg-white">
+                                    <div class="card-body py-4">
+                                        <h4 class="mb-2 fw-bold text-dark">Arquivos Criados</h4>
+                                        <p class="display-6 fw-semibold mb-2" style="color: #fca701;">36 Documentos</p>
+                                        <div class="mb-0">
+                                            <span class="badge bg-success bg-opacity-10 text-success me-2">+9.0%</span>
+                                            <span class="text-muted">Desde o mês passado</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <div class="card border-0 shadow-lg bg-white">
+                                    <div class="card-body py-4">
+                                        <h4 class="mb-2 fw-bold text-dark">Arquivos Excluídos</h4>
+                                        <p class="display-6 fw-semibold mb-2" style="color: #fca701;">20 Documentos</p>
+                                        <div class="mb-0">
+                                            <span class="badge bg-success bg-opacity-10 text-success me-2">+3.0%</span>
+                                            <span class="text-muted">Desde o mês passado</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <div class="card border-0 shadow-lg bg-white">
+                                    <div class="card-body py-4">
+                                        <h4 class="mb-2 fw-bold text-dark">Arquivos Stand by</h4>
+                                        <p class="display-6 fw-semibold mb-2" style="color: #fca701;">5 Documentos</p>
+                                        <div class="mb-0">
+                                            <span class="badge bg-success bg-opacity-10 text-success me-2">+20.0%</span>
+                                            <span class="text-muted">Desde o mês passado</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="botao-adicionar">Adicionar Documentos</button>
+                        </h3>
+                        <div class="row">
+                            <div class="col-12">
+                                <table class="table table-striped table-hover align-middle">
+                                    <thead>
+                                        <tr class="text-center bg-light">
+                                            <th scope="col">#</th>
+                                            <th scope="col" class="fw-bold text-dark">Nome do Documento</th>
+                                            <th scope="col" class="text-muted">Data de Criação</th>
+                                            <th scope="col" class="text-muted">Tipo do Documento</th>
+                                            <th scope="col">Ação</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="text-center">
+                                            <th scope="row">1</th>
+                                            <td class="fw-semibold text-dark">Relatório Anual 2023</td>
+                                            <td>15/01/2023</td>
+                                            <td>PDF</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">2</th>
+                                            <td class="fw-semibold text-dark">Proposta Comercial</td>
+                                            <td>05/03/2023</td>
+                                            <td>DOCX</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">3</th>
+                                            <td class="fw-semibold text-dark">Plano de Projeto</td>
+                                            <td>20/02/2023</td>
+                                            <td>XLSX</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">4</th>
+                                            <td class="fw-semibold text-dark">Relatório Financeiro Q1</td>
+                                            <td>10/04/2023</td>
+                                            <td>PDF</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">5</th>
+                                            <td class="fw-semibold text-dark">Protocolo de Pesquisa</td>
+                                            <td>25/06/2023</td>
+                                            <td>DOCX</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">6</th>
+                                            <td class="fw-semibold text-dark">Contrato de Parceria</td>
+                                            <td>18/08/2023</td>
+                                            <td>PDF</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">7</th>
+                                            <td class="fw-semibold text-dark">Apresentação de Resultados</td>
+                                            <td>10/09/2023</td>
+                                            <td>PPTX</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">8</th>
+                                            <td class="fw-semibold text-dark">Checklist de Auditoria</td>
+                                            <td>28/07/2023</td>
+                                            <td>XLSX</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">9</th>
+                                            <td class="fw-semibold text-dark">Análise de Mercado</td>
+                                            <td>12/10/2023</td>
+                                            <td>PDF</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr class="text-center">
+                                            <th scope="row">10</th>
+                                            <td class="fw-semibold text-dark">Resumo Executivo</td>
+                                            <td>23/11/2023</td>
+                                            <td>DOCX</td>
+                                            <td>
+                                                <a href="#" class="btn btn-secondary btn-sm me-2">
+                                                    <i class="lni lni-share-1"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-primary btn-sm me-2">
+                                                    <i class="lni lni-pen-to-square"></i>
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="lni lni-trash-3"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <nav aria-label="Page navigation example" class="d-flex justify-content-center">
+                                    <ul class="pagination">
+                                        <li class="page-item disabled">
+                                            <a class="page-link" href="#" tabindex="-1">Anterior</a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                        <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                        <li class="page-item">
+                                            <a class="page-link" href="#">Próximo</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+            <footer class="footer bg-light">
+                <div class="container-fluid py-3">
+                    <div class="row text-body-secondary">
+                        <div class="col-12 col-md-6 text-start mb-2 mb-md-0">
+                            <a class="text-body-secondary" href="#">
+                                <strong>CONTROL VERSION</strong>
+                            </a>
+                        </div>
+                        <div class="col-12 col-md-6 text-end">
+                            <ul class="list-inline mb-0">
+                                <li class="list-inline-item">
+                                    <a class="text-body-secondary" href="#">Contato</a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a class="text-body-secondary" href="#">Termos & Condições</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

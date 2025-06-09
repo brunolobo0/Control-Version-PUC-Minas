@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cMEMZXJeJzhv+FwGIUF5q+4cClpPfcVNVGOTiTDXBPk=",
+  "Source": "Api-Armazenamento-Documentos",
+  "BasePath": "_content/Api-Armazenamento-Documentos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

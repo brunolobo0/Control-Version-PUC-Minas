@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\models\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\models\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\models\\documentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\models\\documentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\models\\docsmanagerdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\models\\docsmanagerdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}|Api-Armazenamento-DocumentosTests1\\Api-Armazenamento-DocumentosTests1.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentostests1\\service\\docsstorageservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}|Api-Armazenamento-DocumentosTests1\\Api-Armazenamento-DocumentosTests1.csproj|solutionrelative:api-armazenamento-documentostests1\\service\\docsstorageservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}|Api-Armazenamento-DocumentosTests1\\Api-Armazenamento-DocumentosTests1.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentostests1\\service\\docsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}|Api-Armazenamento-DocumentosTests1\\Api-Armazenamento-DocumentosTests1.csproj|solutionrelative:api-armazenamento-documentostests1\\service\\docsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}|Api-Armazenamento-DocumentosTests1\\Api-Armazenamento-DocumentosTests1.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentostests1\\service\\reportservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}|Api-Armazenamento-DocumentosTests1\\Api-Armazenamento-DocumentosTests1.csproj|solutionrelative:api-armazenamento-documentostests1\\service\\reportservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}|Api-Armazenamento-DocumentosTests1\\Api-Armazenamento-DocumentosTests1.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentostests1\\service\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}|Api-Armazenamento-DocumentosTests1\\Api-Armazenamento-DocumentosTests1.csproj|solutionrelative:api-armazenamento-documentostests1\\service\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\service\\docsstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\service\\docsstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|c:\\users\\natha\\source\\repos\\api-armazenamento-documentos\\api-armazenamento-documentos\\controllers\\documentstoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FD96B-4315-4736-871B-4316A174124B}|Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos.csproj|solutionrelative:api-armazenamento-documentos\\controllers\\documentstoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:00:49.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\appsettings.json",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\appsettings.json",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\appsettings.json",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T20:24:03.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:51:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:51:19.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\Users.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:48:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Service\\UsersService.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Service\\UsersService.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Service\\UsersService.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Service\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:58:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Service\\ReportService.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Service\\ReportService.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Service\\ReportService.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Service\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:26:12.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\Reports.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Models\\Reports.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\Reports.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Models\\Reports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:56:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentStorage.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\DocumentStorage.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Models\\DocumentStorage.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\DocumentStorage.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Models\\DocumentStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:10:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Program.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Program.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Program.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:25:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocsManagerDataBaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\DocsManagerDataBaseSettings.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Models\\DocsManagerDataBaseSettings.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\DocsManagerDataBaseSettings.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Models\\DocsManagerDataBaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:26:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocsStorageServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-DocumentosTests1\\Service\\DocsStorageServiceTests.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-DocumentosTests1\\Service\\DocsStorageServiceTests.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-DocumentosTests1\\Service\\DocsStorageServiceTests.cs",
+              "RelativeToolTip": "Api-Armazenamento-DocumentosTests1\\Service\\DocsStorageServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:45:54.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Models\\Document.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Models\\Document.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:48:35.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-DocumentosTests1\\Service\\ReportServiceTests.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-DocumentosTests1\\Service\\ReportServiceTests.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-DocumentosTests1\\Service\\ReportServiceTests.cs",
+              "RelativeToolTip": "Api-Armazenamento-DocumentosTests1\\Service\\ReportServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:42:37.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-DocumentosTests1\\Service\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-DocumentosTests1\\Service\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-DocumentosTests1\\Service\\UserServiceTests.cs",
+              "RelativeToolTip": "Api-Armazenamento-DocumentosTests1\\Service\\UserServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:15:21.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocsServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-DocumentosTests1\\Service\\DocsServiceTests.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-DocumentosTests1\\Service\\DocsServiceTests.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-DocumentosTests1\\Service\\DocsServiceTests.cs",
+              "RelativeToolTip": "Api-Armazenamento-DocumentosTests1\\Service\\DocsServiceTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:15:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocsStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Service\\DocsStorageService.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Service\\DocsStorageService.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Service\\DocsStorageService.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Service\\DocsStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:02:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentStorageController.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Controllers\\DocumentStorageController.cs",
+              "RelativeDocumentMoniker": "Api-Armazenamento-Documentos\\Controllers\\DocumentStorageController.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\Api-Armazenamento-Documentos\\Api-Armazenamento-Documentos\\Controllers\\DocumentStorageController.cs",
+              "RelativeToolTip": "Api-Armazenamento-Documentos\\Controllers\\DocumentStorageController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:57:29.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

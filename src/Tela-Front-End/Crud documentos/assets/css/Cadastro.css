@@ -1,0 +1,40 @@
+body {
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    margin-top: 50px;
+    border: none;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #FCA701;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.btn-orange {
+    background-color: #FCA701;
+    border-color: #FCA701;
+    color: white;
+}
+
+.btn-orange:hover {
+    background-color: #FCA701;
+    border-color: #FCA701;
+}
+
+.form-control:focus {
+    border-color: #FCA701;
+    box-shadow: none;
+}
+
+.col-md-6-1 {
+
+    text-align: center;
+    
+}

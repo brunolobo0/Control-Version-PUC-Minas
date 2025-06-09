@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api-Armazenamento-Documentos", "Api-Armazenamento-Documentos\Api-Armazenamento-Documentos.csproj", "{222FD96B-4315-4736-871B-4316A174124B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api-Armazenamento-DocumentosTests1", "Api-Armazenamento-DocumentosTests1\Api-Armazenamento-DocumentosTests1.csproj", "{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222FD96B-4315-4736-871B-4316A174124B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222FD96B-4315-4736-871B-4316A174124B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222FD96B-4315-4736-871B-4316A174124B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222FD96B-4315-4736-871B-4316A174124B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5E8297-D0D6-4548-92CD-A6E8C1C90C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7096E3A-0012-48C6-8BB5-CB8CED815FD1}
+	EndGlobalSection
+EndGlobal
