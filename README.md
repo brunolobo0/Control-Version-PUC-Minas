@@ -8,23 +8,6 @@
 
 O projeto em desenvolvimento visa implementar uma gestão documental eficaz, garantindo o armazenamento adequado e revisão correta dos documentos, promovendo a precisão e consistência das informações.
 
-## Integrantes
-
-* Anthony Gabriel Santana Dos Santos
-* Bruno da Silva Lobo
-* Diogo Victor Santos Silva
-* Érica Rodrigues Almeida Almarim
-* Matheus Oliveira Rosário
-* Nathan Teixeira Rizzatte
-
-## Orientador
-
-* Pedro Felipe Alves de Oliveira
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
 # Documentação
 
 <ol>
